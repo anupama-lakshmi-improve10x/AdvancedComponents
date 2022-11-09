@@ -40,7 +40,7 @@
     </LinearLayout>
 
     <Spinner
-        android:id="@+id/team_members_sp"
+        android:id="@+id/names_sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
