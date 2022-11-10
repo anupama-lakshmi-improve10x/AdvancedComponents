@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_add_members.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_contacts.xml" value="0.22894736842105262" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_date_of_birth.xml" value="0.29342105263157897" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_home.xml" value="0.30526315789473685" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_location.xml" value="0.30526315789473685" />
@@ -11,6 +12,7 @@
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_main.xml" value="0.30526315789473685" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_team.xml" value="0.22894736842105262" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/activity_team_list.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/contact_items.xml" value="0.22006578947368421" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/dropdown_item.xml" value="0.30526315789473685" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/dropdown_months.xml" value="0.29342105263157897" />
         <entry key="..\:/Users/Anu/AndroidStudioProjects/AdvancedComponents/app/src/main/res/layout/dropdown_state.xml" value="0.29342105263157897" />
