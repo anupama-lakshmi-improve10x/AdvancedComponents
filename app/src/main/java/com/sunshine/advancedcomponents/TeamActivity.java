@@ -25,7 +25,7 @@ public class TeamActivity extends AppCompatActivity {
         handleAddButton();
     }
 
-    private void handleAddButton() {
+    public void handleAddButton() {
         Button addBtn = findViewById(R.id.add_btn);
         addBtn.setOnClickListener(view -> {
             EditText nameTxt = findViewById(R.id.name_txt);
